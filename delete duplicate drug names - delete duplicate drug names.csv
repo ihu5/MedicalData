@@ -1,0 +1,6 @@
+Drug Name,Interacting Drug,Type of Interaction,Effect/Warning
+Warfarin,NSAIDs,Increased toxicity,Increased risk of bleeding
+Metformin,Cimetidine,Reduced clearance,Increased risk of lactic acidosis
+Atorvastatin,Clarithromycin,Increased toxicity,Higher risk of muscle damage (rhabdomyolysis)
+Amlodipine,Grapefruit Juice,Increased absorption,May cause excessive blood pressure drop
+Ibuprofen,ACE Inhibitors,Reduced effectiveness,May decrease antihypertensive effects
