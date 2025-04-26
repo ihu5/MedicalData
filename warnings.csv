@@ -1,6 +1,6 @@
 Medicine Name,Active Ingredient,Elderly (65+ yr),Warnings,Drug Interactions
-Paracetamol 1,Acetaminophen,Reduce dose in liver disease,Avoid in severe liver impairment,Do not combine with NSAIDs due to kidney damage
-Ibuprofen 1,Ibuprofen,Avoid in kidney disease,Avoid in severe liver impairment,"Caution with antihypertensives, may lower blood pressure"
-Amoxicillin 1,Amoxicillin,Adjust in renal impairment,May require dose adjustment in renal failure,Avoid with Warfarin due to bleeding risk
-Metformin 1,Metformin,Use with caution in renal impairment,Risk of falls due to sedation,"Caution with antihypertensives, may lower blood pressure"
-Atorvastatin 1,Atorvastatin,Start at lower dose,Use with caution in kidney disease,"Avoid with certain antibiotics (e.g., clarithromycin)"
+Paracetamol,Acetaminophen,Reduce dose in liver disease,Avoid in severe liver impairment,Do not combine with NSAIDs due to kidney damage
+Ibuprofen,Ibuprofen,Avoid in kidney disease,Avoid in severe liver impairment,"Caution with antihypertensives, may lower blood pressure"
+Amoxicillin,Amoxicillin,Adjust in renal impairment,May require dose adjustment in renal failure,Avoid with Warfarin due to bleeding risk
+Metformin,Metformin,Use with caution in renal impairment,Risk of falls due to sedation,"Caution with antihypertensives, may lower blood pressure"
+Atorvastatin,Atorvastatin,Start at lower dose,Use with caution in kidney disease,"Avoid with certain antibiotics (e.g., clarithromycin)"
